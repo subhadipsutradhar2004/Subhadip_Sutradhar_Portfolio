@@ -114,6 +114,36 @@ export const SkillsInfo = [
   export const projects = [
     {
       id: 0,
+      title: "Calculator App",
+      description:
+        "This is a simple and responsive calculator web app that performs basic arithmetic operations like addition, subtraction, multiplication, and division. It features a clean UI and real-time results for a smooth user experience. Designed to work seamlessly across devices, it's fast, lightweight, and fully client-side.",
+      image: calculator,
+      tags: ["HTML", "CSS", "JavaScript"],
+      github : "https://github.com/subhadipsutradhar2004/Calculator.git",
+      webapp: "https://calculatorsubhadip.netlify.app/",
+    },
+    {
+      id: 1,
+      title: "Calculator App",
+      description:
+        "This is a simple and responsive calculator web app that performs basic arithmetic operations like addition, subtraction, multiplication, and division. It features a clean UI and real-time results for a smooth user experience. Designed to work seamlessly across devices, it's fast, lightweight, and fully client-side.",
+      image: calculator,
+      tags: ["HTML", "CSS", "JavaScript"],
+      github : "https://github.com/subhadipsutradhar2004/Calculator.git",
+      webapp: "https://calculatorsubhadip.netlify.app/",
+    },
+    {
+      id: 2,
+      title: "Calculator App",
+      description:
+        "This is a simple and responsive calculator web app that performs basic arithmetic operations like addition, subtraction, multiplication, and division. It features a clean UI and real-time results for a smooth user experience. Designed to work seamlessly across devices, it's fast, lightweight, and fully client-side.",
+      image: calculator,
+      tags: ["HTML", "CSS", "JavaScript"],
+      github : "https://github.com/subhadipsutradhar2004/Calculator.git",
+      webapp: "https://calculatorsubhadip.netlify.app/",
+    },
+    {
+      id: 3,
       title: "Kabir - The Virtual Assistant",
       description:
         "Kabir is a smart, voice-enabled virtual assistant built for the browser. It responds to user commands using speech recognition and text-to-speech, offering features like answering questions, performing tasks, and engaging in simple conversation. With a clean interface and real-time voice interaction, it provides an intuitive and interactive user experience.",
@@ -123,7 +153,7 @@ export const SkillsInfo = [
       webapp: "https://githubprofiledetective.netlify.app/",
     },
     {
-      id: 1,
+      id: 4,
       title: "To-Do List Web App",
       description:
         "This is a simple and responsive To-Do List web application that helps users manage their daily tasks efficiently. Users can add, delete, and mark tasks as complete in a clean and intuitive interface. The app ensures tasks are saved in real-time using browser local storage, providing a seamless user experience.",
@@ -133,7 +163,7 @@ export const SkillsInfo = [
       webapp: "https://subhadip-to-do-list.netlify.app/",
     },
      {
-      id: 2,
+      id: 5,
       title: "Calculator App",
       description:
         "This is a simple and responsive calculator web app that performs basic arithmetic operations like addition, subtraction, multiplication, and division. It features a clean UI and real-time results for a smooth user experience. Designed to work seamlessly across devices, it's fast, lightweight, and fully client-side.",
